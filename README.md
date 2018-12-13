@@ -3,7 +3,7 @@ Trees is a a project that aims to do a tree segmentation analysis on LiDAR data 
 
 - osgeo.gdal
 - numpy
-- shpUtils
+- dbfUtils
 - sqlite
 
 once the shapefile has been uploaded into the correct directory, go <version of python (i.e. Python2.7)> trees.py
